@@ -1,0 +1,203 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "14B8670BB1BA4F0715622155954287EBA38097F6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A159381094DADFEA09ECCD534D4C3E31D0BC01B4" : 9223372036854775807,
+    "1308E24804F967D0BFAEC5294D55BE2BE7D89573" : 9223372036854775807,
+    "059D3DBD8E6D472364073CC069CEBFB635609AE5" : 9223372036854775807,
+    "75224C288D14A799245F99223249EF48FF5DC280" : 9223372036854775807,
+    "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B" : 9223372036854775807,
+    "4B8317071C2E8191C0071D14B19E229FF434BD5B" : 9223372036854775807,
+    "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F" : 9223372036854775807,
+    "1D5E3FB3EB19F2DAF5FDEE97CBD5C55259A1CEC1" : 9223372036854775807,
+    "95AA46D2618F98D2CD0A916E6FAE54E5EDA59BB4" : 9223372036854775807,
+    "EB3A58D245911351A063DF08C170DE3415B65824" : 9223372036854775807,
+    "50371057723C0973C719F39F5C16B1B124E47FE9" : 9223372036854775807,
+    "908FC933CA96C901B9EB7FCA1AC9BEABA3C7F49F" : 9223372036854775807,
+    "1E341D92E29B00380C7F10E3866962C9D13CE7F8" : 9223372036854775807,
+    "4C40C860B4786749914FAE6F65C7DE13296994FB" : 9223372036854775807,
+    "AFEF2E1BD93F36E85AC2D560F4E84962820B190D" : 9223372036854775807,
+    "DBEE070D688D85A65B831C30E1DCA68C69DE0D44" : 9223372036854775807,
+    "D4199CF4A45E212E54A4CEE7E34326E0BC446862" : 9223372036854775807,
+    "269ADF55FAAC04D68303BE30B6BD693E717155DE" : 9223372036854775807,
+    "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32" : 9223372036854775807,
+    "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D" : 9223372036854775807,
+    "14B8670BB1BA4F0715622155954287EBA38097F6" : 9223372036854775807,
+    "900D198C3FB851E8F8E01B008846A319DD357A70" : 9223372036854775807,
+    "704B817219E4CBC31AA92368EF54A4E2835A8C3D" : 9223372036854775807,
+    "921DEA5D01811AFCD7FCCE5CCDADF6A0EC4E9245" : 9223372036854775807,
+    "F7C618AF8E5D458AC5B29714A23DA142DF51FD59" : 9223372036854775807,
+    "BA5BC904DE865840E8180B6952FAEA9753C3F7A1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5A9230CF-0FC4-4E01-89BD-A24D4F3B832C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A159381094DADFEA09ECCD534D4C3E31D0BC01B4" : "SlackKit\/.build\/checkouts\/CYAJL.git-4542064459205343853\/",
+    "1308E24804F967D0BFAEC5294D55BE2BE7D89573" : "SlackKit\/.build\/checkouts\/Reflection.git-8761266249456215936\/",
+    "059D3DBD8E6D472364073CC069CEBFB635609AE5" : "SlackKit\/.build\/checkouts\/SKWebAPI--3675534262364500136\/",
+    "75224C288D14A799245F99223249EF48FF5DC280" : "SlackKit\/.build\/checkouts\/swifter.git--165152651921755342\/",
+    "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B" : "SlackKit\/.build\/checkouts\/File.git--286790275320188543\/",
+    "4B8317071C2E8191C0071D14B19E229FF434BD5B" : "SlackKit\/.build\/checkouts\/WebSocketClient-4460431381560178538\/",
+    "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F" : "SlackKit\/.build\/checkouts\/IP.git--7754626322795884858\/",
+    "1D5E3FB3EB19F2DAF5FDEE97CBD5C55259A1CEC1" : "SlackKit\/.build\/checkouts\/CLibvenice.git--6158812894152849781\/",
+    "95AA46D2618F98D2CD0A916E6FAE54E5EDA59BB4" : "SlackKit\/.build\/checkouts\/SKCore-6808240924544108153\/",
+    "EB3A58D245911351A063DF08C170DE3415B65824" : "SlackKit\/.build\/checkouts\/HTTPClient.git-895543832884569108\/",
+    "50371057723C0973C719F39F5C16B1B124E47FE9" : "SlackKit\/.build\/checkouts\/SKRTMAPI--3675534972559415105\/",
+    "908FC933CA96C901B9EB7FCA1AC9BEABA3C7F49F" : "SlackKit\/.build\/checkouts\/TCP.git-6704329150880142359\/",
+    "1E341D92E29B00380C7F10E3866962C9D13CE7F8" : "SlackKit\/.build\/checkouts\/Axis.git--221026332297645589\/",
+    "4C40C860B4786749914FAE6F65C7DE13296994FB" : "SlackKit\/.build\/checkouts\/HTTPFile.git-5168697468325196149\/",
+    "AFEF2E1BD93F36E85AC2D560F4E84962820B190D" : "SlackKit\/.build\/checkouts\/CPOSIX.git-3088984595747919593\/",
+    "DBEE070D688D85A65B831C30E1DCA68C69DE0D44" : "SlackKit\/.build\/checkouts\/SKClient--3675504193236213391\/",
+    "D4199CF4A45E212E54A4CEE7E34326E0BC446862" : "SlackKit\/.build\/checkouts\/HTTP.git--272820182718543615\/",
+    "269ADF55FAAC04D68303BE30B6BD693E717155DE" : "SlackKit\/.build\/checkouts\/CHTTPParser.git-5348291456210268902\/",
+    "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32" : "SlackKit\/.build\/checkouts\/OpenSSL.git--3910106218684191058\/",
+    "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D" : "SlackKit\/.build\/checkouts\/Starscream-6423249093605004847\/",
+    "14B8670BB1BA4F0715622155954287EBA38097F6" : "SlackKit\/",
+    "900D198C3FB851E8F8E01B008846A319DD357A70" : "SlackKit\/.build\/checkouts\/Venice.git--7213066144657614979\/",
+    "704B817219E4CBC31AA92368EF54A4E2835A8C3D" : "SlackKit\/.build\/checkouts\/POSIX.git-6838564179862367629\/",
+    "921DEA5D01811AFCD7FCCE5CCDADF6A0EC4E9245" : "SlackKit\/.build\/checkouts\/SKServer--3675535218600224055\/",
+    "F7C618AF8E5D458AC5B29714A23DA142DF51FD59" : "SlackKit\/.build\/checkouts\/COpenSSL.git--1107325238714972182\/",
+    "BA5BC904DE865840E8180B6952FAEA9753C3F7A1" : "SlackKit\/.build\/checkouts\/HTTPServer-663737265935885010\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SlackKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SlackKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/SKWebAPI--3675534262364500136",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "059D3DBD8E6D472364073CC069CEBFB635609AE5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/Reflection.git-8761266249456215936",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1308E24804F967D0BFAEC5294D55BE2BE7D89573"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SlackKit\/SlackKit",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "14B8670BB1BA4F0715622155954287EBA38097F6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/IP.git--7754626322795884858",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/CLibvenice.git--6158812894152849781",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D5E3FB3EB19F2DAF5FDEE97CBD5C55259A1CEC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/Axis.git--221026332297645589",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E341D92E29B00380C7F10E3866962C9D13CE7F8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/CHTTPParser.git-5348291456210268902",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "269ADF55FAAC04D68303BE30B6BD693E717155DE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/WebSocket.git--5986177721434066563",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B8317071C2E8191C0071D14B19E229FF434BD5B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/WebSocketClient-4460431381560178538",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B8317071C2E8191C0071D14B19E229FF434BD5B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/HTTPFile.git-5168697468325196149",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C40C860B4786749914FAE6F65C7DE13296994FB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/SKRTMAPI--3675534972559415105",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "50371057723C0973C719F39F5C16B1B124E47FE9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/POSIX.git-6838564179862367629",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "704B817219E4CBC31AA92368EF54A4E2835A8C3D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/swifter.git--165152651921755342",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75224C288D14A799245F99223249EF48FF5DC280"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/Venice.git--7213066144657614979",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "900D198C3FB851E8F8E01B008846A319DD357A70"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/TCP.git-6704329150880142359",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "908FC933CA96C901B9EB7FCA1AC9BEABA3C7F49F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/SKServer--3675535218600224055",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "921DEA5D01811AFCD7FCCE5CCDADF6A0EC4E9245"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/SKCore-6808240924544108153",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95AA46D2618F98D2CD0A916E6FAE54E5EDA59BB4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/CYAJL.git-4542064459205343853",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A159381094DADFEA09ECCD534D4C3E31D0BC01B4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/CPOSIX.git-3088984595747919593",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFEF2E1BD93F36E85AC2D560F4E84962820B190D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/HTTPServer-663737265935885010",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA5BC904DE865840E8180B6952FAEA9753C3F7A1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/Starscream-6423249093605004847",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C86D95FCAEB1FEA0694B5D4AC7241D7E5F42F31D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/File.git--286790275320188543",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/HTTP.git--272820182718543615",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4199CF4A45E212E54A4CEE7E34326E0BC446862"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/SKClient--3675504193236213391",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DBEE070D688D85A65B831C30E1DCA68C69DE0D44"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/HTTPClient.git-895543832884569108",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB3A58D245911351A063DF08C170DE3415B65824"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/COpenSSL.git--1107325238714972182",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7C618AF8E5D458AC5B29714A23DA142DF51FD59"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pzignego\/Repositories\/SK4.0\/SlackKit\/.build\/repositories\/OpenSSL.git--3910106218684191058",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32"
+    }
+  ]
+}
