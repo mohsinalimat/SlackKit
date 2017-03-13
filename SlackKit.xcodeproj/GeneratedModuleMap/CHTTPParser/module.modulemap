@@ -1,4 +1,0 @@
-module CHTTPParser {
-    umbrella "/Users/pzignego/Repositories/SK4.0/SlackKit/.build/checkouts/CHTTPParser.git-5348291456210268902/Sources/include"
-    export *
-}

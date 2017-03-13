@@ -1,4 +1,0 @@
-module COpenSSL {
-    umbrella header "/Users/pzignego/Repositories/SK4.0/SlackKit/.build/checkouts/COpenSSL.git--1107325238714972182/Sources/include/COpenSSL.h"
-    export *
-}

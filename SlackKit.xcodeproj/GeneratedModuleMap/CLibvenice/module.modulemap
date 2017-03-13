@@ -1,4 +1,0 @@
-module CLibvenice {
-    umbrella "/Users/pzignego/Repositories/SK4.0/SlackKit/.build/checkouts/CLibvenice.git--6158812894152849781/Sources/include"
-    export *
-}

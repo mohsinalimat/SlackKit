@@ -1,4 +1,0 @@
-module CPOSIX {
-    umbrella "/Users/pzignego/Repositories/SK4.0/SlackKit/.build/checkouts/CPOSIX.git-3088984595747919593/Sources/CPOSIX/include"
-    export *
-}
