@@ -1,0 +1,4 @@
+module CYAJL {
+    umbrella "/Users/pzignego/Repositories/SK4.0/SlackKit/.build/checkouts/CYAJL.git-4542064459205343853/Sources/CYAJL/include"
+    export *
+}
